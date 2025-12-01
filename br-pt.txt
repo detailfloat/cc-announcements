@@ -1,0 +1,10 @@
+Obrigado por jogar a Language Beta!
+
+<b>Notas do Desenvolvedor:</b>
+- Se sua voz não estiver ativando os feitiços, vá para as configurações do jogo e redefina a voz
+- Esta ainda é uma versão experimental. O reconhecimento de voz não funcionará para algumas frases. Não somos falantes nativos, então mande feedback no nosso Discord para ajudar a melhorar a comunidade!
+- Pode haver problemas de dessincronização com jogadores que entram/saem de partidas ativas
+
+Se estiver gostando do jogo, deixe uma avaliação na Steam — isso nos ajuda muito.
+Somos uma pequena equipe indie e lemos o máximo de feedback possível. Entre no Discord para compartilhar bugs, opiniões ou clipes.
+Divirta-se e obrigado pelo apoio!
