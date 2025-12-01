@@ -1,0 +1,10 @@
+¡Gracias por jugar la Beta de Idioma!
+
+<b>Notas del Desarrollador:</b>
+- Si tu voz no activa los hechizos, ve a la configuración del juego y reinicia la voz
+- Esta sigue siendo una versión experimental. El reconocimiento de voz no funcionará con algunas frases. No somos hablantes nativos, así que deja tus comentarios en nuestro Discord para ayudar a mejorar la comunidad.
+- Puede haber problemas de desincronización con jugadores que entren o salgan de partidas activas
+
+Si disfrutas el juego, deja una reseña en Steam — ¡nos ayuda mucho!
+Somos un pequeño equipo indie y leemos todo el feedback posible. Únete a nuestro Discord para compartir errores, sugerencias o clips.
+¡Diviértete y gracias por tu apoyo!
