@@ -1,0 +1,10 @@
+Merci d’avoir joué à la Beta Linguistique !
+
+<b>Notes du Développeur :</b>
+- Si ta voix ne déclenche pas les sorts, va dans les paramètres du jeu et réinitialise la voix
+- Il s’agit encore d’une version expérimentale. La reconnaissance vocale ne fonctionnera pas pour certaines phrases. Nous ne sommes pas locuteurs natifs, alors laisse ton avis sur Discord pour aider la communauté à s’améliorer !
+- Des problèmes de désynchronisation peuvent survenir avec les joueurs qui rejoignent ou quittent une partie en cours
+
+Si tu apprécies le jeu, laisse-nous un avis sur Steam – cela nous aide énormément.
+Nous sommes une petite équipe indépendante et lisons autant de retours que possible. Rejoins notre Discord pour partager bugs, retours ou clips.
+Amuse-toi bien et merci pour ton soutien !
