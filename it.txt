@@ -1,0 +1,10 @@
+Grazie per aver giocato la Language Beta!
+
+<b>Note dello Sviluppatore:</b>
+- Se la tua voce non attiva gli incantesimi, vai nelle impostazioni di gioco e reimposta la voce
+- Questa è ancora una build sperimentale. Il riconoscimento vocale potrebbe non funzionare per alcune frasi. Non siamo madrelingua, quindi lascia feedback sul nostro Discord per aiutare la community!
+- Potrebbero esserci problemi di desincronizzazione con i giocatori che entrano o escono da sessioni attive
+
+Se ti stai divertendo, lascia una recensione su Steam – ci aiuta tantissimo.
+Siamo un piccolo team indie e leggiamo più feedback possibile. Unisciti al nostro Discord per condividere bug, commenti o clip.
+Divertiti e grazie per il supporto!
