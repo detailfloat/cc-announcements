@@ -1,0 +1,10 @@
+Danke, dass du die Language Beta spielst!
+
+<b>Entwickler-Hinweise:</b>
+- Wenn deine Stimme keine Zauber auslöst, gehe in die Spieleinstellungen und setze die Stimme zurück
+- Dies ist noch eine experimentelle Version. Die Spracherkennung reagiert nicht auf alle Phrasen. Wir sind keine Muttersprachler, also gib uns bitte Feedback auf Discord, damit die Community besser wird!
+- Es kann zu Desync-Problemen mit Spielern kommen, die während aktiver Sitzungen beitreten oder verlassen
+
+Wenn dir das Spiel gefällt, hinterlasse bitte eine Bewertung auf Steam – das hilft uns sehr.
+Wir sind ein kleines Indie-Team und lesen so viel Feedback wie möglich. Tritt unserem Discord bei, um Bugs, Feedback oder Clips zu teilen.
+Viel Spaß und danke für deine Unterstützung!
