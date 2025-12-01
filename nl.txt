@@ -1,0 +1,10 @@
+Bedankt dat je de Language Beta speelt!
+
+<b>Ontwikkelaarsnotities:</b>
+- Als je stem geen spreuken activeert, ga dan naar de spelinstellingen en reset je stem
+- Dit is nog een experimentele build. Spraakherkenning werkt niet voor sommige zinnen. We zijn geen native sprekers, dus geef graag feedback op onze Discord om de community te helpen verbeteren!
+- Er kunnen desync-problemen optreden bij spelers die actieve sessies verlaten of betreden
+
+Vind je het spel leuk? Laat dan een beoordeling achter op Steam – dat helpt ons enorm.
+We zijn een klein indieteam en lezen zoveel feedback als mogelijk. Word lid van onze Discord om bugs, feedback of clips te delen.
+Veel plezier en bedankt voor je steun!
