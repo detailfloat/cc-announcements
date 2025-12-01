@@ -1,0 +1,10 @@
+Dziękujemy za grę w Language Beta!
+
+<b>Notatki Dewelopera:</b>
+- Jeśli twoja mowa nie aktywuje zaklęć, przejdź do ustawień gry i zresetuj głos
+- To nadal wersja eksperymentalna. Rozpoznawanie mowy nie zadziała dla niektórych frazy. Nie jesteśmy native speakerami, więc przekaż opinie na naszym Discordzie, aby pomóc społeczności się rozwijać!
+- Mogą wystąpić problemy z synchronizacją u graczy, którzy dołączają lub opuszczają aktywną grę
+
+Jeśli podoba ci się gra, zostaw recenzję na Steam – to bardzo pomaga.
+Jesteśmy małym zespołem indie i czytamy tyle opinii, ile możemy. Dołącz do Discorda, aby dzielić się błędami, opiniami lub klipami.
+Baw się dobrze i dziękujemy za wsparcie!
