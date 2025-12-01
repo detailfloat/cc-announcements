@@ -1,0 +1,10 @@
+Language Beta’yı oynadığınız için teşekkürler!
+
+<b>Geliştirici Notları:</b>
+- Sesiniz büyüleri tetiklemiyorsa, oyun ayarlarına gidip sesi sıfırlayın
+- Bu hala deneysel bir sürümdür. Ses tanıma bazı ifadelerde çalışmayabilir. Anadili konuşucusu değiliz, bu yüzden topluluğu geliştirmemize yardımcı olmak için Discord'da geri bildirim verin!
+- Aktif oturumlara girip çıkan oyuncularda senkronizasyon sorunları olabilir
+
+Oyunu beğeniyorsanız, lütfen Steam'de bir inceleme bırakın – bu bize çok yardım eder.
+Küçük bir indie ekibiyiz ve olabildiğince çok geri bildirim okuyoruz. Hataları, geri bildirimleri veya klipleri Discord'da paylaşın.
+İyi eğlenceler ve teşekkürler!
