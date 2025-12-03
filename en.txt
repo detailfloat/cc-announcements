@@ -1,4 +1,4 @@
-<b>Thanks for playing the Early Access!</b>
+Thanks for playing the Early Access!
 
 <u>Dev Notes:</u>
 - If you find your voice not triggering spells, go to the Game Settings and Reset Voice
@@ -6,6 +6,6 @@
 - There may be some desyncing issues with players who drop-in/out of active game sessions
 - If you are looking to play in another language, please to go Steam > Cursed Companions > Settings > Betas > Select 'language-beta'
 
-If you're enjoying the game, please leave us a Steam review - it really helps.
-We're a small indie team and we read as much feedback as we can. Join our Discord to share bugs, feedback or clips with our community. 
-Have fun and thank you for the support!
+If you're enjoying the game, <b>please leave us a Steam review</b> - it really helps.
+We're a tiny indie team & we read as much feedback as we can. Join our Discord to share bugs, feedback or clips with our community. 
+Have fun & thank you for the support!
