@@ -1,10 +1,10 @@
+Happy Holidays! We have cosmetics you can redeem. Go to Discord to get the redeem code.
 Thanks for playing the Early Access!
-
 <u>Dev Notes:</u>
 - If you find your voice not triggering spells, go to the Game Settings and Reset Voice
 - Voice recognition might miss some accents. We’re improving it, and feedback from a broader range of players will help us tune it further.
 - There may be some desyncing issues with players who drop-in/out of active game sessions
-- Bugs: Sometimes Curse Words, Curse Door & Rebirth Eggs do not trigger. Also, in rare cases, Dungeons are not generated properly. We are working on it.
+- Bugs: In rare cases, Dungeons are not generated properly. We are working on it. For more info on bugs, etc. please head to our Discord.
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. Join our Discord to share bugs, feedback or clips with our community. 
