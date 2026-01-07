@@ -1,4 +1,6 @@
-Happy Holidays! We have cosmetics you can redeem. Go to our Discord to get the redeem code.
+Happy 2026! Glad to announce Endless mode has been added to the 'Language-beta' track on Steam. Try it out and let us know your feedback.
+
+We added more Achievements too. More details on Discord and on Steam Community posts.
 
 <u>Dev Notes:</u>
 - If you find your voice not triggering spells, go to the Game Settings and Reset Voice
