@@ -1,12 +1,13 @@
-Announcing Endless Mode! See how far your team can progress and get those Achievements! Your adventure awaits!
+Announcing Endless Mode! See how far your team can progress and get those Achievements!
+
 More details on Discord and on Steam Community posts on how Endless Mode works.
 
-<u>Dev Notes & Known Issues:</u>
-- Some players report that the game crashes the moment the Portal opens. If you experience this problem, please reach out!
+<u>Known Issues:</u>
+- Some players report that the game crashes the moment the Portal opens. If you experience this problem, please reach out!!
+<u>Dev Notes:</u>
 - We are fixing desyncing issues with players who drop-in/out of active game sessions
 - If you find your voice not triggering spells, go to the Game Settings and Reset Voice
-- Voice recognition might miss some accents. We’re improving it, and feedback from a broader range of players will help us tune it further.
-- Help us improve by sending error logs to the devs via Discord
+- Voice recognition might miss some accents. We’re improving it.
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. 
