@@ -1,6 +1,6 @@
 Announcing Endless Mode! See how far your team can progress and get those Achievements!
 
-More details on Discord and on Steam Community posts on how Endless Mode works.
+More details on Discord and Steam Community on how Endless Mode works.
 
 <u>Known Issues:</u>
 - Some players report that the game crashes the moment the Portal opens. If you experience this problem, please reach out!!
