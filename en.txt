@@ -1,8 +1,8 @@
-We hear you and we've combined the Spell Journal and Dungeon Codex into one - the Spell Book.
-We've also made Act 1 a little easier, lowering the Treasure targets, thanks to your feedback. 
+<u>ISSUE:</u> Users reported items/treasures left on the Island goes missing when the portal is closed. We working on a fix.
 
+We hear you and we've combined the Spell Journal and Dungeon Codex into one - the Spell Book. Also made Act 1 a little easier, lowering the Treasure target. 
 There's a naming competition going on in Discord. Join us to help name the new monsters, items and more.
-<u>BUG:</u> Users reported items on the Island goes missing when the portal is closed. We working on a fix.
+
 <u>Dev Notes:</u>
 - Version 0.9.19 contains mostly bug fixes.
 - Dungeon wall overlaps should be resolved.
