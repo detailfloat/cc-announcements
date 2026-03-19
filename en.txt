@@ -2,9 +2,8 @@ We hear you and we've combined the Spell Journal and Dungeon Codex into one - th
 There's a naming competition going on in Discord. Join us to help name the new monsters, items and more.
 
 <u>Dev Notes:</u>
-- Users reported items/treasures left on the Island goes missing when the portal is closed. We have released a fix (7 Mar 412pm UTC). 
-- Version 0.9.19 contains mostly bug fixes.
-- Dungeon wall overlaps should be resolved.
+- Version 0.9.20 officially supports Simplified Chinese, Spanish, Japanese and French.
+- Dungeon wall overlaps - we are looking into the issue
 - We are fixing desyncing issues with players who drop-in/out of active game sessions.
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
