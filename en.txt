@@ -1,10 +1,12 @@
-We hear you and we've combined the Spell Journal and Dungeon Codex into one - the Spell Book. Also made Act 1 a little easier, lowering the Treasure target. 
-There's a naming competition going on in Discord. Join us to help name the new monsters, items and more.
+Thank you for updating to version 0.9.21. There are many quality-of-life improvements in this patch. We will cover them in detail in our Steam community posts and on Discord.
 
 <u>Dev Notes:</u>
-- Version 0.9.20 officially supports Simplified Chinese, Spanish, Japanese and French.
-- Dungeon wall overlaps - we are looking into the issue
-- We are fixing desyncing issues with players who drop-in/out of active game sessions.
+- Text-to-Speech added: Enter text and the game will speak in a robot voice.
+- New main menu music
+- Graphics Settings and Ultrawide support
+- Steam Invites direct from the game
+- Additional save slots for your Home Decor
+- Player audio boost and Mute button UI
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. 
