@@ -2,11 +2,12 @@ Thank you for updating to version 0.9.21. There are many quality-of-life improve
 
 <u>Dev Notes:</u>
 - Text-to-Speech added: Enter text and the game will speak in a robot voice.
-- New main menu music
+- New main menu music (made in-house) and safe for streaming
 - Graphics Settings and Ultrawide support
-- Steam Invites direct from the game
+- Steam Invites: Invite friends direct from the Game Settings or Steam Overlay
 - Additional save slots for your Home Decor
 - Player audio boost and Mute button UI
+- And other bug fixes. Thank you for your feedback!
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. 
