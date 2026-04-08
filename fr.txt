@@ -1,9 +1,13 @@
-Notre jeu est désormais officiellement disponible en français. Merci pour vos retours qui nous aident à améliorer le jeu !
+Merci d'avoir mis à jour le jeu vers la version 0.9.21. Ce patch apporte de nombreuses améliorations de confort de jeu (QoL). Nous les détaillerons dans nos posts sur la communauté Steam ainsi que sur Discord.
 
 <u>Notes des développeurs :</u>
-- La version 0.9.20 prend désormais en charge quatre nouvelles langues : le chinois simplifié, le français, l'espagnol et le japonais.
-- Nous corrigeons actuellement les problèmes de désynchronisation pour les joueurs qui rejoignent ou quittent des sessions de jeu en cours.
-- Rejoignez notre Discord pour nous faire part de vos avis et suggestions sur les malédictions et les sorts.
+- Synthèse vocale (TTS) ajoutée : Saisissez du texte et le jeu le lira avec une voix de robot.
+- Nouvelle musique pour le menu principal : Produite en interne et libre de droits pour le streaming.
+- Paramètres graphiques et support Ultra-large (Ultrawide).
+- Invitations Steam : Invitez vos amis directement depuis les paramètres du jeu ou l'interface Steam.
+- Emplacements de sauvegarde supplémentaires pour votre décoration intérieure.
+- Boost du volume audio des joueurs et interface du bouton "Muet".
+- Et d'autres corrections de bugs. Merci pour vos retours !
 
 Si vous appréciez le jeu, <u>n'hésitez pas à nous laisser une évaluation sur Steam</u>, cela nous aide énormément. 
 
