@@ -1,8 +1,12 @@
-Nuestro juego ya es oficialmente compatible con el español. Gracias por tus comentarios para ayudarnos a mejorar el juego.
+Gracias por actualizar a la versión 0.9.21. Este parche incluye muchas mejoras de calidad de vida. Daremos más detalles en nuestras publicaciones de la comunidad de Steam y en Discord.
 
 <u>Notas de los desarrolladores:</u>
-- La versión 0.9.20 ahora es compatible con cuatro idiomas más: chino simplificado, francés, español y japonés.
-- Estamos trabajando en solucionar los problemas de desincronización de los jugadores que se unen o abandonan sesiones de juego activas.
-- Únete a nuestro Discord para darnos tu opinión y sugerencias sobre maldiciones y hechizos.
+- Se añadió Texto a Voz (TTS): Escribe texto y el juego lo reproducirá con una voz robótica.
+- Nueva música en el menú principal: Creada por nosotros y segura para hacer streaming.
+- Ajustes de gráficos y soporte para monitores Ultra-Anchos (Ultrawide).
+- Invitaciones de Steam: Invita a tus amigos directamente desde los ajustes del juego o el menú de Steam.
+- Ranuras de guardado adicionales para tu decoración del hogar.
+- Mejora de audio de jugadores e interfaz del botón de silencio.
+- Y otras correcciones de errores. ¡Gracias por sus comentarios!
 
 Si estás disfrutando del juego, <u>por favor déjanos una reseña en Steam</u>; nos ayuda muchísimo. Somos un equipo indie muy pequeño y leemos todos los comentarios que podemos. ¡Gracias por jugar al Early Access! :)
