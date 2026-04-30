@@ -2,7 +2,7 @@ Thanks for updating to version 0.9.22. This build contains several bug fixes and
 
 <u>Dev Notes:</u>
 - Added new cosmetics for Japan launch
-- Tweaked Matron damage, fixed bugs on the Conductor, Screamsucker and FoulMoth
+- Fixed bugs on the Conductor, Screamsucker and FoulMoth
 - Fixed mid-game drop-in syncing issues where players who joined midway cannot see the open portal and treasure chest
 - Also, fixed issues where they cannot see equipment held by other players
 - Added Arachnophobia mode which hides the legs on the Bileburster
