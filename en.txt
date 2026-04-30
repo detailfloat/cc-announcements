@@ -1,13 +1,11 @@
-Thank you for updating to version 0.9.21. There are many quality-of-life improvements in this patch. We will cover them in detail in our Steam community posts and on Discord.
+Thanks for updating to version 0.9.22. This build contains several bug fixes and game tweaks. We have added new cosmetics to celebrate the release of the game in Japan. Check out the wardrobe! More details in our community posts on Steam and Discord.
 
 <u>Dev Notes:</u>
-- Text-to-Speech added: Enter text and the game will speak in a robot voice.
-- New main menu music (made in-house) and safe for streaming
-- Graphics Settings and Ultrawide support
-- Steam Invites: Invite friends direct from the Game Settings or Steam Overlay
-- Additional save slots for your Home Decor
-- Player audio boost and Mute button UI
-- And other bug fixes. Thank you for your feedback!
+- Added new cosmetics for Japan launch
+- Tweaked Matron damage, fixed bugs on the Conductor, Screamsucker and FoulMoth
+- Fixed mid-game drop-in syncing issues where players who joined midway cannot see the open portal and treasure chest
+- Also, fixed issues where they cannot see equipment held by other players
+- Added Arachnophobia mode which hides the legs on the Bileburster
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. 
