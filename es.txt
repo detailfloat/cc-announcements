@@ -1,12 +1,9 @@
-Gracias por actualizar a la versión 0.9.21. Este parche incluye muchas mejoras de calidad de vida. Daremos más detalles en nuestras publicaciones de la comunidad de Steam y en Discord.
+La última versión 0.9.23 incluye varios ajustes de equilibrio. Gracias a los comentarios de nuestros jugadores y de la comunidad, hemos retocado un poco la dificultad del juego para que la experiencia sea más fluida. Tienes más detalles en nuestras publicaciones de Steam y Discord.
 
-<u>Notas de los desarrolladores:</u>
-- Se añadió Texto a Voz (TTS): Escribe texto y el juego lo reproducirá con una voz robótica.
-- Nueva música en el menú principal: Creada por nosotros y segura para hacer streaming.
-- Ajustes de gráficos y soporte para monitores Ultra-Anchos (Ultrawide).
-- Invitaciones de Steam: Invita a tus amigos directamente desde los ajustes del juego o el menú de Steam.
-- Ranuras de guardado adicionales para tu decoración del hogar.
-- Mejora de audio de jugadores e interfaz del botón de silencio.
-- Y otras correcciones de errores. ¡Gracias por sus comentarios!
+[u]Notas del desarrollador (0.9.23):[/u]
+- Objetivo de tesoros: se ha reducido entre un 20% y un 30%.
+- Tasa de aparición de tesoros: se ha aumentado un 20%.
+- Tienda: los objetos son ahora un 20% más baratos.
+- Ajuste de daño: hemos reducido el daño de los monstruos y las trampas.
 
 Si estás disfrutando del juego, <u>por favor déjanos una reseña en Steam</u>; nos ayuda muchísimo. Somos un equipo indie muy pequeño y leemos todos los comentarios que podemos. ¡Gracias por jugar al Early Access! :)
