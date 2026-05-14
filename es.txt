@@ -1,6 +1,6 @@
 La última versión 0.9.23 incluye varios ajustes de equilibrio. Gracias a los comentarios de nuestros jugadores y de la comunidad, hemos retocado un poco la dificultad del juego para que la experiencia sea más fluida. Tienes más detalles en nuestras publicaciones de Steam y Discord.
 
-[u]Notas del desarrollador (0.9.23):[/u]
+<u>Notas del desarrollador (0.9.23):</u>
 - Objetivo de tesoros: se ha reducido entre un 20% y un 30%.
 - Tasa de aparición de tesoros: se ha aumentado un 20%.
 - Tienda: los objetos son ahora un 20% más baratos.
