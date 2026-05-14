@@ -1,6 +1,6 @@
 La dernière version 0.9.23 apporte des ajustements d'équilibrage importants. Suite aux retours des joueurs et de la communauté, nous avons légèrement modifié la difficulté du jeu. Retrouvez tous les détails dans nos posts sur Steam et Discord.
 
-[u]Notes des développeurs (0.9.23) :[/u]
+<u>Notes des développeurs (0.9.23) :</u>
 - Objectif de trésors : réduit de 20 à 30 %.
 - Taux d'apparition des trésors : augmenté de 20 %.
 - Boutique : les prix des objets ont baissé de 20 %.
