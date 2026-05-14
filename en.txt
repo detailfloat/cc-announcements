@@ -1,11 +1,12 @@
-Thanks for updating to version 0.9.22. This build contains several bug fixes and game tweaks. We have added new cosmetics to celebrate the release of the game in Japan. Check out the wardrobe! More details in our community posts on Steam and Discord.
+Latest version 0.9.23 contains major nerfing tweaks. Following feedback from players and the community, we made some minor tweaks to the difficulty of the game. More details in our community posts on Steam and Discord.
 
-<u>Dev Notes:</u>
-- Added new cosmetics for Japan launch
-- Fixed bugs on the Conductor, Screamsucker and FoulMoth
-- Fixed mid-game drop-in syncing issues where players who joined midway cannot see the open portal and treasure chest
-- Also, fixed issues where they cannot see equipment held by other players
-- Added Arachnophobia mode which hides the legs on the Bileburster
+<u>Dev Notes (0.9.23):</u>
+- Treasure Target lowered by 20-30%
+- Treasure spawn rate increased by 20%
+- Items in Shop and Gregory made cheaper by 20%
+- Lowered damage on Monsters and Traps
+- Matron does not deal fatal damage
+- Working on Summoning Staff bug
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. 
