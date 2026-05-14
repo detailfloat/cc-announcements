@@ -1,13 +1,10 @@
-Merci d'avoir mis à jour le jeu vers la version 0.9.21. Ce patch apporte de nombreuses améliorations de confort de jeu (QoL). Nous les détaillerons dans nos posts sur la communauté Steam ainsi que sur Discord.
+La dernière version 0.9.23 apporte des ajustements d'équilibrage importants. Suite aux retours des joueurs et de la communauté, nous avons légèrement modifié la difficulté du jeu. Retrouvez tous les détails dans nos posts sur Steam et Discord.
 
-<u>Notes des développeurs :</u>
-- Synthèse vocale (TTS) ajoutée : Saisissez du texte et le jeu le lira avec une voix de robot.
-- Nouvelle musique pour le menu principal : Produite en interne et libre de droits pour le streaming.
-- Paramètres graphiques et support Ultra-large (Ultrawide).
-- Invitations Steam : Invitez vos amis directement depuis les paramètres du jeu ou l'interface Steam.
-- Emplacements de sauvegarde supplémentaires pour votre décoration intérieure.
-- Boost du volume audio des joueurs et interface du bouton "Muet".
-- Et d'autres corrections de bugs. Merci pour vos retours !
+[u]Notes des développeurs (0.9.23) :[/u]
+- Objectif de trésors : réduit de 20 à 30 %.
+- Taux d'apparition des trésors : augmenté de 20 %.
+- Boutique : les prix des objets ont baissé de 20 %.
+- Équilibrage des dégâts : réduction des dégâts infligés par les monstres et les pièges.
 
 Si vous appréciez le jeu, <u>n'hésitez pas à nous laisser une évaluation sur Steam</u>, cela nous aide énormément. 
 
