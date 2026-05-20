@@ -6,7 +6,7 @@ Latest version 0.9.23 contains major nerfing tweaks. Following feedback from pla
 - Items in Shop and Gregory made cheaper by 20%
 - Lowered damage on Monsters and Traps
 - Matron does not deal fatal damage
-- Working on Summoning Staff bug
+- Fixed the Summoning Staff bug and other bugs
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. 
