@@ -1,12 +1,13 @@
-Latest version 0.9.23 contains major nerfing tweaks. Following feedback from players and the community, we made some minor tweaks to the difficulty of the game. More details in our community posts on Steam and Discord.
+We are ready to move from Early Access to Full Release on 9th July! Get your friends to join and play! 
 
-<u>Dev Notes (0.9.23):</u>
-- Treasure Target lowered by 20-30%
-- Treasure spawn rate increased by 20%
-- Items in Shop and Gregory made cheaper by 20%
-- Lowered damage on Monsters and Traps
-- Matron does not deal fatal damage
-- Fixed the Summoning Staff bug and other bugs
+<u>Upcoming Content for v1.0:</u>
+- Act III brings new maps, dungeons and new boss
+- Fan-named items and treasures: Gaslighter, Plan B, etc.
+- Respawn Dice: Roll to get a chance to respawn
+- More Monsters like the Mimic, Oilyphant and more.
+- Monsters can be killed by a new item - Death Wand
+
+More details in our community posts on Steam and Discord.
 
 If you're enjoying the game, <u>please leave us a Steam review</u> - it really helps.
 We're a tiny indie team & we read as much feedback as we can. 
