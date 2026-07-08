@@ -1,10 +1,12 @@
-La dernière version 0.9.23 apporte des ajustements d'équilibrage importants. Suite aux retours des joueurs et de la communauté, nous avons légèrement modifié la difficulté du jeu. Retrouvez tous les détails dans nos posts sur Steam et Discord.
+Nous sommes prêts à quitter l'Accès Anticipé pour la version 1.0 le 9 juillet ! Invitez vos amis à venir jouer !
 
-<u>Notes des développeurs (0.9.23) :</u>
-- Objectif de trésors : réduit de 20 à 30 %.
-- Taux d'apparition des trésors : augmenté de 20 %.
-- Boutique : les prix des objets ont baissé de 20 %.
-- Équilibrage des dégâts : réduction des dégâts infligés par les monstres et les pièges.
+<u>Contenu à venir dans la v1.0 :</u>
+- L'Acte III apporte de nouvelles cartes, de nouveaux donjons et un nouveau boss
+- Des objets et trésors nommés par la communauté
+- [Respawn Dice] : lancez les dés pour avoir une chance de réapparaître
+- De nouveaux monstres comme [Mimic], [Oilyphant] et bien d'autres
+- Les monstres peuvent être tués grâce à un nouvel objet : [Death Wand]
+- Plus de détails dans nos publications sur Steam et Discord.
 
 Si vous appréciez le jeu, <u>n'hésitez pas à nous laisser une évaluation sur Steam</u>, cela nous aide énormément. 
 
