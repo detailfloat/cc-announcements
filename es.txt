@@ -1,9 +1,11 @@
-La última versión 0.9.23 incluye varios ajustes de equilibrio. Gracias a los comentarios de nuestros jugadores y de la comunidad, hemos retocado un poco la dificultad del juego para que la experiencia sea más fluida. Tienes más detalles en nuestras publicaciones de Steam y Discord.
+¡Estamos listos para salir de Acceso Anticipado y lanzar la versión completa el 9 de julio! ¡Invita a tus amigos y jueguen juntos!
 
-<u>Notas del desarrollador (0.9.23):</u>
-- Objetivo de tesoros: se ha reducido entre un 20% y un 30%.
-- Tasa de aparición de tesoros: se ha aumentado un 20%.
-- Tienda: los objetos son ahora un 20% más baratos.
-- Ajuste de daño: hemos reducido el daño de los monstruos y las trampas.
+<u>Contenido de la v1.0:</u>
+- El Acto III trae nuevos mapas, mazmorras y un nuevo jefe
+- Objetos y tesoros nombrados por la comunidad
+- [Respawn Dice]: lanza los dados para tener una oportunidad de revivir
+- Más monstruos como [Mimic], [Oilyphant] y muchos más
+- Los monstruos podrán eliminarse con un nuevo objeto: [Death Wand]
+- Más detalles en nuestras publicaciones de Steam y Discord.
 
 Si estás disfrutando del juego, <u>por favor déjanos una reseña en Steam</u>; nos ayuda muchísimo. Somos un equipo indie muy pequeño y leemos todos los comentarios que podemos. ¡Gracias por jugar al Early Access! :)
