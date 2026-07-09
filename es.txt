@@ -1,6 +1,6 @@
-¡Estamos listos para salir de Acceso Anticipado y lanzar la versión completa el 9 de julio! ¡Invita a tus amigos y jueguen juntos!
+¡Hemos pasado oficialmente de Acceso Anticipado a la versión completa! Queremos dar un enorme agradecimiento a nuestra comunidad por su apoyo durante todos estos meses de desarrollo. Nuestro equipo está muy orgulloso de este juego y le tiene un gran cariño.
 
-<u>Contenido de la v1.0:</u>
+<u>Todo el contenido nuevo de la v1.0:</u>
 - El Acto III trae nuevos mapas, mazmorras y un nuevo jefe
 - Objetos y tesoros nombrados por la comunidad
 - [Respawn Dice]: lanza los dados para tener una oportunidad de revivir
@@ -8,4 +8,4 @@
 - Los monstruos podrán eliminarse con un nuevo objeto: [Death Wand]
 - Más detalles en nuestras publicaciones de Steam y Discord.
 
-Si estás disfrutando del juego, <u>por favor déjanos una reseña en Steam</u>; nos ayuda muchísimo. Somos un equipo indie muy pequeño y leemos todos los comentarios que podemos. ¡Gracias por jugar al Early Access! :)
+Si estás disfrutando del juego, <u>por favor déjanos una reseña en Steam</u>; nos ayuda muchísimo. Somos un equipo indie muy pequeño y leemos todos los comentarios que podemos. ¡Gracias por jugar! :)
