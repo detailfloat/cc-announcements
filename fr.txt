@@ -1,6 +1,6 @@
-Nous sommes prêts à quitter l'Accès Anticipé pour la version 1.0 le 9 juillet ! Invitez vos amis à venir jouer !
+Nous avons officiellement quitté l'Accès Anticipé pour la version complète ! Un immense merci à notre communauté pour son soutien tout au long du développement. Notre équipe est extrêmement fière de ce jeu et y est très attachée.
 
-<u>Contenu à venir dans la v1.0 :</u>
+<u>Tout le nouveau contenu de la v1.0 :</u>
 - L'Acte III apporte de nouvelles cartes, de nouveaux donjons et un nouveau boss
 - Des objets et trésors nommés par la communauté
 - [Respawn Dice] : lancez les dés pour avoir une chance de réapparaître
@@ -10,4 +10,4 @@ Nous sommes prêts à quitter l'Accès Anticipé pour la version 1.0 le 9 juille
 
 Si vous appréciez le jeu, <u>n'hésitez pas à nous laisser une évaluation sur Steam</u>, cela nous aide énormément. 
 
-Nous sommes une petite équipe indie et nous lisons autant de retours que possible. Merci de jouer à l'Accès Anticipé ! :)
+Nous sommes une petite équipe indie et nous lisons autant de retours que possible. Merci d'avoir joué ! :)
