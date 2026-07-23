@@ -1,13 +1,13 @@
-We have officially transitioned from Early Access to Full Release! We want to say a massive thank you to our community for your support over the months. Our team is deeply proud! We have truly enjoyed making the game with you!
+We hear your comments and feedback, thanks so much and keep them coming in! This update fixes several issues flagged up by the community.
 
-<u>All New Content for v1.0:</u>
-- Act III brings new maps, dungeons & new boss
-- Fan-named items and treasures: Gaslighter, Plan B, etc.
-- Respawn Dice: Roll to get a chance to respawn
-- More Monsters like the Mimic, Oilyphant and more.
-- Monsters can be killed by a new item - Death Wand
-- More details in our posts on Steam and Discord.
+<u>Update for 1.0.1:</u>
+- Fixed the issue where failed game won't auto save current house layout
+- Fixed some dungeon overlapping issues
+- Fixed coin sync issue
+- Minor bug fixes and QOL improvements
+- Added basic Czech to the 'Language-beta' version of the game
 
-If you're loving the game, <u>please leave us a Steam review</u> - it really helps.
-We're a tiny indie team & we read as much feedback as we can. 
+If you've enjoyed playing, <u>please leave us a Steam review</u> - it really helps spread the word.
+We're a tiny indie team & we read as much feedback as we can. Don't forget to join our Discord and chat with the devs.
+
 Thank you for playing! :)
