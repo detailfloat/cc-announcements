@@ -1,0 +1,9 @@
+Welcome Czech language players! Thank you for playing our game. 
+  
+This is the very first iteration of the Czech language version of our game. The words for the spells and curses have been contributed by our community.
+
+As it is in beta, some words may not trigger properly. 
+  
+If you wish to give feedback and contribute to the game for Czech language speakers, please go to our Discord https://discord.gg/cursedcompanions
+
+Thank you!
